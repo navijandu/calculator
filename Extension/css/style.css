@@ -1,0 +1,65 @@
+* {
+
+    padding: 0;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 25px;
+
+}
+
+body {
+    background-image: url("https://www.vanseodesign.com/blog/wp-content/uploads/2011/10/background-3.jpg");
+
+}
+
+.btn {
+    width: 100%;
+    height: 50%;
+    padding: 29px 17px;
+    box-shadow: 0px 0px 1px 0px;
+    border: none;
+
+}
+
+.btn:hover {
+    background-color: aquamarine;
+}
+
+.cal {
+    margin-top: 5%;
+    margin-bottom: 0;
+    width: 60%;
+    background-color: antiquewhite;
+    font-size: 3em;
+    padding: 2% 0% 4% 0%;
+    border-radius: 3%;
+}
+
+.display {
+    justify-content: center;
+    width: 100%;
+
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+td {
+    width: 12%;
+}
+
+.eql {
+    width: 196%;
+}
+
+.clr {
+    width: 130%;
+}
+
+.clrOne {
+    width: 136%;
+    margin-left: 30%;
+}
+
+.plus {
+    width: 128%;
+    margin-left: 68%;
+}
